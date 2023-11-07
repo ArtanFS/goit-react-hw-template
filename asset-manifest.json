@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/goit-react-hw-template/static/js/main.c599ec1f.js",
+    "index.html": "/goit-react-hw-template/index.html",
+    "main.c599ec1f.js.map": "/goit-react-hw-template/static/js/main.c599ec1f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c599ec1f.js"
+  ]
+}
